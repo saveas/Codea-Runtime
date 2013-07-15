@@ -1,4 +1,5 @@
 supportedOrientations(LANDSCAPE_ANY)
+test
 
 -- Use this function to perform your initial setup
 function setup()
